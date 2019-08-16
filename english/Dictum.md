@@ -24,3 +24,11 @@
 
 
 
+> The tragedy of life is not death but what we let die inside use while we live.
+
+生命的悲剧不是死亡，而是在我们还活着的时候，任由自己的内心死去。
+
+
+
+
+
