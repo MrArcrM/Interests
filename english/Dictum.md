@@ -30,5 +30,6 @@
 
 
 
+> We mistook violence for passion, indolence for leisure, and thought recklessness was freedom.
 
-
+我们错误地将暴力视为热情，懒惰视为休闲，并且以为行事鲁莽是一种自由。
