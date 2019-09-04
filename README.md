@@ -1,4 +1,4 @@
-# Interests
+# ]Interests
 
 | Subject         | Title                                                        | Content                                                      |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -9,4 +9,5 @@
 | life-quality    | [Things-to-Buy](life-quality/Things-to-Buy.md)<br>[Things-to-Do](life-quality/Things-to-Do.md) |                                                              |
 | personal growth | [3 ways to measure adaptibility](personal-growth/3-ways-to-measure-adaptibility.md) |                                                              |
 | relationship    | [healthy-unhealthy relationship](relationship/healthy-unhealthy-relationship.md) |                                                              |
+| T-shaped-Genius | [Things-to-Learn](T-shaped-Genius/Things-to-Learn.md)        |                                                              |
 
